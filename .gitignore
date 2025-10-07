@@ -1,0 +1,27 @@
+# Protecting private information..
+
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Env & Data
+.env
+*.env
+backend/.env
+frontend/.env
+**/*.env.local
+backend/wellness.db
+*.sqlite
+*.db
+*.sql
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.vite/

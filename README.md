@@ -9,7 +9,7 @@ Current Functionality:
   1) **OpenAI** (recommended if you have a key)
   2) **PyTorch tiny classifier** (set `USE_PYTORCH=1`) (This is how I am currently running on my end.)
 
-Future Functionality (will release November 12th):
+Future Functionality (will release Jan 12th):
 - Add user sign-in system.
 - Implement gamified Daily Tasks and Streaks.
 - Integrate chatbot with OpenAI.
